@@ -1,3 +1,3 @@
 # Sales-prediction-
-##Analizing and predicting sales
-###Author:Davis Miranda
+## Analizing and predicting sales
+### Author:Davis Miranda
